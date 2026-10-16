@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 640" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe4ae"/><stop offset="1" stop-color="#f0a870"/></linearGradient><radialGradient id="o"><stop offset="0" stop-color="#fffbe0"/><stop offset="1" stop-color="#ffd36b" stop-opacity="0"/></radialGradient></defs><rect width="880" height="640" fill="url(#s)"/><circle cx="640" cy="170" r="190" fill="url(#o)"/><circle cx="640" cy="170" r="62" fill="#fff6c8"/>
+<rect x="90" y="60" width="300" height="330" rx="150" fill="#fff4d6" opacity=".55"/>
+<path d="M240 60 V390 M90 225 H390" stroke="#b85c38" stroke-width="10" opacity=".5"/>
+<rect x="0" y="470" width="880" height="170" fill="#7a4524"/><rect x="0" y="470" width="880" height="14" fill="#9a5c30"/>
+<path d="M300 330 h280 l-22 130 q-5 30 -118 30 q-113 0 -118 -30z" fill="#fff8ea"/>
+<ellipse cx="440" cy="330" rx="140" ry="32" fill="#fffdf6"/><ellipse cx="440" cy="336" rx="118" ry="23" fill="#3b2314"/>
+<path d="M580 355 q90 -10 80 45 q-10 45 -90 38" fill="none" stroke="#fff8ea" stroke-width="22"/>
+<path d="M400 290 q-18 -40 0 -80 M445 290 q-18 -50 0 -100 M490 290 q-16 -38 0 -76" stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round" opacity=".7"/></svg>

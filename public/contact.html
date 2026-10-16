@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact | Radiant Haven</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+</head>
+<body>
+<header class="navbar">
+  <a class="logo" href="/"><span class="sun"></span>Radiant Haven</a>
+  <nav>
+    <a href="/">HOME</a>
+    <a href="/menu">MENU</a>
+    <a href="/about">ABOUT</a>
+    <a href="/contact">CONTACT</a>
+  </nav>
+</header>
+<main class="page split">
+  <img class="side-img" src="/images/contact.svg" alt="Person enjoying a cup of coffee">
+  <section class="panel">
+    <h1>Contact Us</h1>
+    <form id="contact-form">
+      <label for="name">Name:</label>
+      <input type="text" id="name" required>
+      <label for="email">Email:</label>
+      <input type="email" id="email" required>
+      <label for="message">Message:</label>
+      <textarea id="message" rows="5" required></textarea>
+      <button type="submit">Send Message</button>
+      <p id="form-status"></p>
+    </form>
+  </section>
+</main>
+<script src="/js/contact.js"></script>
+</body>
+</html>
